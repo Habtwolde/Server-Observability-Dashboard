@@ -1,3 +1,0 @@
-streamlit
-databricks-sql-connector
-pandas
